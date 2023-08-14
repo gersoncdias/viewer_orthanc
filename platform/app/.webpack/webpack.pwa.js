@@ -149,6 +149,7 @@ module.exports = (env, argv) => {
       // compress: true,
       // http2: true,
       // https: true,
+      allowedHosts:"all",
       open: true,
       port: 4000,
       client: {

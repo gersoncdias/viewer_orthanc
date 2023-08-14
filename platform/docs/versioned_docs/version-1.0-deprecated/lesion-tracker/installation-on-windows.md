@@ -53,7 +53,7 @@ installer from [OHIF](https://ohif.org)
   - It will launch computer's default browser and display LesionTracker Viewer
     if you click 'http://localhost:3000'
   - It will launch computer's default browser and enables to upload studies to
-    Orthanc Server if you click 'http://localhost:8042'
+    Orthanc Server if you click 'http://localhost:8044'
 
   ![Final](../assets/img/LesionTracker/LT_Installer_Final.png)
 
